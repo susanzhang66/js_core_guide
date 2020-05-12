@@ -6,7 +6,7 @@
  * @Description: In User Settings Edit
  * @FilePath: /vue/Users/rainbow/Documents/工作/前端/learn/JS参考手册/Array/filter.md
  -->
-**定义和用法**
+**定义和用法**   ie9+
 filter() 方法创建一个新的数组，新数组中的元素是通过检查指定数组中符合条件的所有元素。
 
 > array.filter(function(currentValue,index,arr), thisValue)
