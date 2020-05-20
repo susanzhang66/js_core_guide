@@ -1,11 +1,4 @@
-<!--
- * @Author: your name
- * @Date: 2020-05-11 15:47:32
- * @LastEditTime: 2020-05-11 15:49:56
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: /learn/JS参考手册/String/String.md
- -->
+
 String对象。。。。
 charAt()	返回在指定位置的字符。
 charCodeAt()	返回在指定的位置的字符的 Unicode 编码。
